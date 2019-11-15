@@ -1,0 +1,9 @@
+D:\miniproject\netCore\WebAPi\WebAPi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\miniproject\netCore\WebAPi\WebAPi\bin\Debug\netcoreapp3.0\appsettings.json
+D:\miniproject\netCore\WebAPi\WebAPi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\miniproject\netCore\WebAPi\WebAPi\obj\Debug\netcoreapp3.0\WebAPi.csprojAssemblyReference.cache
+D:\miniproject\netCore\WebAPi\WebAPi\obj\Debug\netcoreapp3.0\staticwebassets\WebAPi.StaticWebAssets.Manifest.cache
+D:\miniproject\netCore\WebAPi\WebAPi\obj\Debug\netcoreapp3.0\staticwebassets\WebAPi.StaticWebAssets.xml
+D:\miniproject\netCore\WebAPi\WebAPi\obj\Debug\netcoreapp3.0\WebAPi.AssemblyInfoInputs.cache
+D:\miniproject\netCore\WebAPi\WebAPi\obj\Debug\netcoreapp3.0\WebAPi.AssemblyInfo.cs
+D:\miniproject\netCore\WebAPi\WebAPi\obj\Debug\netcoreapp3.0\WebAPi.RazorTargetAssemblyInfo.cache
